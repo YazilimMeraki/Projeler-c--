@@ -1,0 +1,8 @@
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\bin\Debug\Methods.dll
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\bin\Debug\Methods.pdb
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\obj\Debug\Methods.dll
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\obj\Debug\Methods.pdb
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\bin\Debug\Methods.dll.config
+D:\Masaüstü\CSharpProjelerim\Automation\Solution1\Methods\bin\Debug\Microsoft.PointOfService.WMI.dll
